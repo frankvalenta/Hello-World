@@ -10,8 +10,8 @@ Submission of resume for review. The assignment looks to optimize details on the
 - Microsoft Word
 
 ## Files Used
-- Frank-Valenta-Resume.pdf
-- handshake_upload.jpg
+1. Frank-Valenta-Resume.pdf
+2. handshake_upload.jpg
 
 ## How to Run Program
 The project does not require a program. To observe the project, open the attached resume file from the repository to conduct analysis.
